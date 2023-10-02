@@ -44,7 +44,7 @@
 print("Hello World!")
 
 ```
-![изображение](https://github.com/Quvir/DA-in-GameDev-lab1/assets/146718226/7b263ed6-7e8c-4ab6-b3a5-17b8943a5de8)
+![изображение](https://github.com/Quvir/DA-in-GameDev-lab1/blob/main/jupyterhelloworld.png)
 
 ## Задание 2
 ### Написать программу Hello World на C# с запуском на Unity. 
@@ -73,7 +73,7 @@ public class HelloWorld : MonoBehaviour
     }
 }
 ```
-![изображение](https://github.com/Quvir/DA-in-GameDev-lab1/assets/146718226/af1b19fa-663e-4731-86fd-afd37ffae73a)
+![изображение](https://github.com/Quvir/DA-in-GameDev-lab1/blob/main/unityhelloworld.png)
 
 ## Задание 3
 ### Оформить отчет в виде документации на github (markdown-разметка).
